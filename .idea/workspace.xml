@@ -1,66 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="563cf915-f7f7-4e0c-8303-78fa2d2cf165" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rabines.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Profile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/assets/storefront/d1009051__features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/files/8982f90a__Mesa_de_trabajo_1_250x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/files/aa3473d5__Mesa_de_trabajo_1_250x@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/00ac32fe__image_c78cbb0f-6cf8-4e18-850e-9933946f8df1_580x@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/0a585714__image_36b4e6c6-c52d-4db3-a9d6-9f413d7511c3_580x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/0eb1da0c__image_c90f5598-7fa0-4fa2-98cb-dda1555da6c4_580x@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/202d4e03__image_c90f5598-7fa0-4fa2-98cb-dda1555da6c4_580x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/2d1434e9__image_d2354706-97a7-4bd9-b151-9f420d5ad24e_580x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/36d5e31e__image_d2354706-97a7-4bd9-b151-9f420d5ad24e_580x@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/6042dcb1__image_d40111ac-6d5c-4fed-9d40-5f4c20452784_compact.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/643226c0__image_bef7a1f6-f255-41b9-86a3-3b33e96f3508_compact.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/8b544f5a__image_754e7c50-323f-4a4d-a419-6bd8b38f6d0b_580x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/a4b6d4ee__image_bc85fe4b-7f3f-4a51-a7fb-3add521c7ebf_580x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/b4308c94__image_36b4e6c6-c52d-4db3-a9d6-9f413d7511c3_580x@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/df2a2d99__image_c78cbb0f-6cf8-4e18-850e-9933946f8df1_580x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/e78b1a89__image_d112a4a2-021f-43c3-824d-135973160094_compact.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/f64f1557__image_d2354706-97a7-4bd9-b151-9f420d5ad24e_compact.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/f70bf4d8__image_bc85fe4b-7f3f-4a51-a7fb-3add521c7ebf_580x@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/f70eac46__image_754e7c50-323f-4a4d-a419-6bd8b38f6d0b_580x@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/t/6/assets/2b750a8c__vendor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/t/6/assets/809f79ae__theme.scss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/t/6/assets/8fe075fd__theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/t/6/assets/db8d063b__jquery-2.2.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.weglot.com/44be3438__weglot_shopify.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/edge.personalizer.io/storefront/2.0.0/js/shopify/de5a112a__storefront.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/www.agatashoes.com/collections/todo-zapatos/products/645715d0__zapatillas-berta-negro-zebra-cuero-legitimo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mydb.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabines.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap-responsive.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/evidencia1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/font-awesome-ie7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/productos/zapato/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/productos/zapato/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/slider/slider1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/slider/slider2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/zapato.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/zapato1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/d961398b__zapatillas-berta-negro-zebra-cuero-legitimo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/inicio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/product_details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/producto.html" afterDir="false" />
-    </list>
+    <list default="true" id="563cf915-f7f7-4e0c-8303-78fa2d2cf165" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
