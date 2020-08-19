@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="563cf915-f7f7-4e0c-8303-78fa2d2cf165" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rabines.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/assets/storefront/d1009051__features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/files/8982f90a__Mesa_de_trabajo_1_250x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/files/aa3473d5__Mesa_de_trabajo_1_250x@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/00ac32fe__image_c78cbb0f-6cf8-4e18-850e-9933946f8df1_580x@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/0a585714__image_36b4e6c6-c52d-4db3-a9d6-9f413d7511c3_580x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/0eb1da0c__image_c90f5598-7fa0-4fa2-98cb-dda1555da6c4_580x@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/202d4e03__image_c90f5598-7fa0-4fa2-98cb-dda1555da6c4_580x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/2d1434e9__image_d2354706-97a7-4bd9-b151-9f420d5ad24e_580x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/36d5e31e__image_d2354706-97a7-4bd9-b151-9f420d5ad24e_580x@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/6042dcb1__image_d40111ac-6d5c-4fed-9d40-5f4c20452784_compact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/643226c0__image_bef7a1f6-f255-41b9-86a3-3b33e96f3508_compact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/8b544f5a__image_754e7c50-323f-4a4d-a419-6bd8b38f6d0b_580x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/a4b6d4ee__image_bc85fe4b-7f3f-4a51-a7fb-3add521c7ebf_580x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/b4308c94__image_36b4e6c6-c52d-4db3-a9d6-9f413d7511c3_580x@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/df2a2d99__image_c78cbb0f-6cf8-4e18-850e-9933946f8df1_580x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/e78b1a89__image_d112a4a2-021f-43c3-824d-135973160094_compact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/f64f1557__image_d2354706-97a7-4bd9-b151-9f420d5ad24e_compact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/f70bf4d8__image_bc85fe4b-7f3f-4a51-a7fb-3add521c7ebf_580x@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/products/f70eac46__image_754e7c50-323f-4a4d-a419-6bd8b38f6d0b_580x@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/t/6/assets/2b750a8c__vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/t/6/assets/809f79ae__theme.scss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/t/6/assets/8fe075fd__theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.shopify.com/s/files/1/1462/2866/t/6/assets/db8d063b__jquery-2.2.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/cdn.weglot.com/44be3438__weglot_shopify.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/edge.personalizer.io/storefront/2.0.0/js/shopify/de5a112a__storefront.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/downloads/some-fancy-name/www.agatashoes.com/collections/todo-zapatos/products/645715d0__zapatillas-berta-negro-zebra-cuero-legitimo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mydb.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabines.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap-responsive.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/evidencia1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/font-awesome-ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/productos/zapato/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/productos/zapato/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/slider/slider1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/slider/slider2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/zapato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/zapato1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/d961398b__zapatillas-berta-negro-zebra-cuero-legitimo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/inicio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/product_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/producto.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/producto.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="402" column="10" selection-start-line="402" selection-start-column="10" selection-end-line="402" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Profile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/inicio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="310" column="6" selection-start-line="310" selection-start-column="6" selection-end-line="310" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/downloads/some-fancy-name/www.agatashoes.com/collections/todo-zapatos/products/645715d0__zapatillas-berta-negro-zebra-cuero-legitimo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25160">
+              <caret line="1480" column="11" selection-start-line="1480" selection-start-column="11" selection-end-line="1480" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/product_details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="75" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/slider/slider1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/main.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>os.</find>
+      <find>fon</find>
+      <find>añ</find>
+      <find>grid-item large--three-fifths</find>
+      <find>margin-top</find>
+      <find>body</find>
+      <find>back</find>
+      <find>backgro</find>
+      <find>pic-1</find>
+      <find>sel</find>
+      <find>talla</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/product_details.html" />
+        <option value="$PROJECT_DIR$/dd.py" />
+        <option value="$PROJECT_DIR$/downloads/some-fancy-name/www.agatashoes.com/collections/todo-zapatos/products/645715d0__zapatillas-berta-negro-zebra-cuero-legitimo.html" />
+        <option value="$PROJECT_DIR$/templates/inicio.html" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/producto.html" />
+        <option value="$PROJECT_DIR$/Profile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="-10" />
+    <option name="width" value="925" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rabines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rabines" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diegomayandia\PycharmProjects\rabines\templates" />
+      <recent name="C:\Users\diegomayandia\PycharmProjects\rabines\static" />
+      <recent name="C:\Users\diegomayandia\PycharmProjects\rabines" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diegomayandia\PycharmProjects\rabines" />
+      <recent name="C:\Users\diegomayandia\PycharmProjects\rabines\static" />
+      <recent name="C:\Users\diegomayandia\PycharmProjects\rabines\static\slider" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rabines" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rabines" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.dd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="563cf915-f7f7-4e0c-8303-78fa2d2cf165" name="Default Changelist" comment="" />
+      <created>1596087075420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596087075420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="81" y="-7" width="1462" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8522954" visible="true" weight="0.24964938" />
+      <window_info id="Structure" order="1" sideWeight="0.14770459" side_tool="true" weight="0.24964938" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32931727" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31191432" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32931727" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>179</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/evidencia1.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path/to/downloads/some-fancy-name/www.agatashoes.com/index.html" />
+    <entry file="file://$PROJECT_DIR$/path/to/downloads/some-fancy-name/www.agatashoes.com/file_e446f9c0.pwc" />
+    <entry file="file://$PROJECT_DIR$/path/to/downloads/some-fancy-name/cdn.weglot.com/44be3438__weglot_shopify.min.css" />
+    <entry file="file://$PROJECT_DIR$/templates/d961398b__zapatillas-berta-negro-zebra-cuero-legitimo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downloads/some-fancy-name/www.agatashoes.com/collections/todo-zapatos/products/645715d0__zapatillas-berta-negro-zebra-cuero-legitimo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25160">
+          <caret line="1480" column="11" selection-start-line="1480" selection-start-column="11" selection-end-line="1480" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/product_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="75" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/slider/slider1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inicio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="310" column="6" selection-start-line="310" selection-start-column="6" selection-end-line="310" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/producto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="402" column="10" selection-start-line="402" selection-start-column="10" selection-end-line="402" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Profile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
